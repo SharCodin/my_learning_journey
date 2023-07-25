@@ -4,6 +4,9 @@ This repository contains all the projects and tutorials I have completed while l
 
 ## Contents
 
+- CSharp (C#)
+    - Number Guessing Game
+    
 - Web Development
     - Responsive Website - HTML CSS
 
