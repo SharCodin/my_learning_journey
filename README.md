@@ -6,7 +6,8 @@ This repository contains all the projects and tutorials I have completed while l
 
 - CSharp (C#)
     - Number Guessing Game
-    
+- Python
+    - Django Template Tags
 - Web Development
     - Responsive Website - HTML CSS
 
