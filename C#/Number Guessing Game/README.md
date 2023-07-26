@@ -20,10 +20,6 @@ Keep entering guesses until you guess the correct number. Once you guess the cor
 - Handles invalid input gracefully - prompts again if non-number entered
 - Simple console interface to play the game
 
-## Credits
-
-[Microsoft CSharp .Net Docs](https://learn.microsoft.com/en-us/dotnet/csharp/)
-
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or pull requests on GitHub.
@@ -36,3 +32,7 @@ Some ideas for improvements:
 - Add color/styling to console output
 
 Thanks for playing!
+
+## Credits
+
+[Microsoft CSharp .Net Docs](https://learn.microsoft.com/en-us/dotnet/csharp/)
