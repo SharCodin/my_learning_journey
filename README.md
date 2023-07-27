@@ -8,6 +8,7 @@ This repository contains all the projects and tutorials I have completed while l
     - Number Guessing Game
 - Python
     - Django Template Tags
+    - List Files and Folders
 - Web Development
     - Responsive Website - HTML CSS
 
