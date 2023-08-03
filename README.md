@@ -10,8 +10,13 @@ This repository contains all the projects and tutorials I have completed while l
     - Number Guessing Game
 - Python
     - Django Template Tags
+    - Factorial
+    - Flask Tutorial
     - List Files and Folders
+    - Python Fundamentals
+    - Rosetta Code 100 Doors
 - Web Development
+    - CSS
     - Responsive Website - HTML CSS
 
 
