@@ -5,9 +5,13 @@ This repository contains all the projects and tutorials I have completed while l
 ## Contents
 
 - AutoHotkey
-    - Countdown Timer
+    - [Countdown Timer](AutoHotkey/Countdown%20Timer/README.md)
+
+<!-- TODO: Add relative links to project README -->
 - CSharp (C#)
-    - Number Guessing Game
+    - C# Programming All-in-One Tutorial Series by Celeb Curry
+    - Dotnet Fundamentals by Microsoft
+    - [Number Guessing Game](C#/Number%20Guessing%20Game/README.md)
 - Python
     - Django Template Tags
     - Factorial
