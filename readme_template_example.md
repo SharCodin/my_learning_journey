@@ -1,5 +1,3 @@
-Here is a README for the web scraping movie project using the template:
-
 # Web Scraping Movie Project
 
 This project scrapes movie data from a website and outputs it as XML and HTML files.
