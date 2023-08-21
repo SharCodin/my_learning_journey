@@ -8,11 +8,11 @@ This repository contains all the projects and tutorials I have completed while l
     - [Countdown Timer](/AutoHotkey/Countdown%20Timer/README.md)
 
 - CMD / Terminal / Powershell Commands
+    - [CMD](/CMD-Terminal-Powershell-commands/CMD/README.md)
     - [Powershell](/CMD-Terminal-Powershell-commands/Powershell/README.md)
 
 - CSharp (C#)
-    - [C# Programming All-in-One Tutorial Series by Celeb Curry](/CSharp/CSharp%20Programming%20All-in-One%20Tutorial%20Series%20(6%20HOURS!)/README.md)
-    - [Dotnet Fundamentals by Microsoft](/CSharp/dotnet_fundatmentals_microsoft/README.md)
+    - [Dotnet Fundamentals by Microsoft](/CSharp/Fundamentals/README.md)
     - [Number Guessing Game](/CSharp/Number%20Guessing%20Game/README.md)
 
 - Python
