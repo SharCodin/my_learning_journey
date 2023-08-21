@@ -1,11 +1,10 @@
-# Powershell Commands
+# CMD Commands
 
-This is a list of powershell commands.
+This is a list of cmd commands.
 
 ## Table of Contents
 
-- [findstr](./findstr.md)
-- [PowerShell User Profile](./powershell_user_profile.md)
+- [simbolic links](./simlinks.md)
 
 ## Contributing
 
