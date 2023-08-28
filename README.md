@@ -37,5 +37,5 @@ This repo serves as a personal journal of concepts learned and projects complete
 
 ## Sponsor and Support
 
-- [Patreon Page](https://www.patreon.com/ssharworks)
+- [Patreon Page](https://www.patreon.com/codecrafterscorner)
 - [Code Crafters Corner YouTube Channel](https://www.youtube.com/channel/UCZGXfClJ2l8MP0l2bMbHa6w)
