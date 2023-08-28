@@ -12,6 +12,7 @@ Click on the table of content to navigate to the topic of interest.
 2. [Literals](./Literals/Program.cs)
 3. [Variables](./Variables/Program.cs)
 4. [String Formatting](./StringFormatting/Program.cs)
+5. [String Concatenation](./StringConcatenation/Program.cs)
 
 ## Sponsor and Support
 
