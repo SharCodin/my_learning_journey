@@ -13,6 +13,8 @@ Click on the table of content to navigate to the topic of interest.
 3. [Variables](./Variables/Program.cs)
 4. [String Formatting](./StringFormatting/Program.cs)
 5. [String Concatenation](./StringConcatenation/Program.cs)
+6. [String Interpolation](./StringInterpolation/Program.cs)
+7. [Math](./Math/Program.cs)
 
 ## Sponsor and Support
 
