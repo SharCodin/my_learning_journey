@@ -1,5 +1,15 @@
 # Python Fundamentals
 
+
+# Table of Contents
+1. [Shallow Copy and Deep Copy](#shallow-copy-and-deep-copy)
+2. [Print large numbers in human readable format](./print_large_numbers_in_readable_format.py)
+3. [init.py and `__all__`](./understanding_init.md)
+
+
+
+# Shallow Copy and Deep Copy
+
 Here is an explanation of shallow copy and deep copy in Python with examples:
 
 Shallow copy:
