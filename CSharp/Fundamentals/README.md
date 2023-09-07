@@ -15,6 +15,8 @@ Click on the table of content to navigate to the topic of interest.
 5. [String Concatenation](./StringConcatenation/Program.cs)
 6. [String Interpolation](./StringInterpolation/Program.cs)
 7. [Math](./Math/Program.cs)
+8. [Increment and Decrement Variables](./IncrementAndDecrement/Program.cs)
+9. [Exercise: Fahrenheit to Celsius](./FahrenheitToCelsius/Program.cs)
 
 ## Sponsor and Support
 
