@@ -6,6 +6,7 @@ This is a list of powershell commands.
 
 - [findstr](./findstr.md)
 - [PowerShell User Profile](./powershell_user_profile.md)
+- [RoboCopy](./robocopy.md)
 
 ## Contributing
 
